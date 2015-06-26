@@ -10,7 +10,7 @@
                     "pre_build": [], 
                     "status": []
                 }, 
-                "installer": [], 
+"installer": [], 
                 "os": "ubuntu", 
                 "osVersion": "12", 
                 "service_pack": ""
