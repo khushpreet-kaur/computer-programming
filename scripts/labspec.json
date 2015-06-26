@@ -11,7 +11,7 @@
                     "status": []
                 }, 
 "installer": [], 
-                "os": "ubuntu", 
+                "os": ubuntu", 
                 "osVersion": "12", 
                 "service_pack": ""
             }
